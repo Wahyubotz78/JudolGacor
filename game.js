@@ -3,7 +3,7 @@ const bidInputElement = document.getElementById('bid-input');
 const playButton = document.getElementById('play-button');
 const gameOutputElement = document.getElementById('game-output');
 
-let uang = 250000;
+let uang = 5000;
 
 playButton.addEventListener('click', playGame);
 
